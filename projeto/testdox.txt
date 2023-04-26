@@ -1,0 +1,16 @@
+Matricular Aluno (Alura\Arquitetura\Testes\Aplicacao\Aluno\MatricularAluno)
+ [x] Aluno deve ser adicionado ao repositorio
+
+Telefone (Alura\Arquitetura\Testes\Dominio\Aluno\Telefone)
+ [x] Telefone deve poder ser representado como string
+ [x] Telefone com ddd invalido nao deve existir
+ [x] Telefone com numero invalido nao deve existir
+
+Cpf (Alura\Arquitetura\Dominio\Testes\Cpf)
+ [x] Cpf com numero no formato invalido nao deve poder existir
+ [x] Cpf deve poder ser representado como string
+
+Email (Alura\Arquitetura\Dominio\Testes\Email)
+ [x] Email no formato invalido nao deve poder existir
+ [x] Email deve poder ser representado como string
+
